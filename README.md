@@ -11,13 +11,13 @@
   # 1 2 3 4 5
 ```
 ```py
-n = int(input())
-a = [input() for _ in range(n)]
-#This reads n separate lines, each as a string.
-#3
-#1
-#2
-#3
+  n = int(input())
+  a = [input() for _ in range(n)]
+  #This reads n separate lines, each as a string.
+  #3
+  #1
+  #2
+  #3
 ```
 </div>
 
