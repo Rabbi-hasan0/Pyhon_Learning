@@ -1,5 +1,20 @@
 <h1 align="center">Python Learning</h1>
 
+<div>
+1. input a array 
+  
+```py 
+  n = int(sys.stdin.readline().strip())
+  a = list(map(int, sys.stdin.readline().split()))
+  #input:
+  # 5
+  # 1 2 3 4 5
+```
+```
+a = [input() for _ in range(n)]
+#This reads n separate lines, each as a string.
+```
+</div>
 
 <div>
 
