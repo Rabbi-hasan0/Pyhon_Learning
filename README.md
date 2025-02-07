@@ -32,8 +32,7 @@
 ```py 
   n = int(sys.stdin.readline().strip())
   a = list(map(int, sys.stdin.readline().split()))
-  """
-    input:
+  """input:
     5
     1 2 3 4 5
   """
