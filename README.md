@@ -32,7 +32,8 @@
 ```py 
   n = int(sys.stdin.readline().strip())
   a = list(map(int, sys.stdin.readline().split()))
-  """input:
+  """
+    input:
     5
     1 2 3 4 5
   """
@@ -41,10 +42,13 @@
   n = int(input())
   a = [input() for _ in range(n)]
   #This reads n separate lines, each as a string.
-  #3
-  #1
-  #2
-  #3
+  """
+  input
+  3
+  1
+  2
+  3
+  """
 ```
 </div>
 
