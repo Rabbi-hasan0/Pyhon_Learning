@@ -1,6 +1,5 @@
-<div text-align="center">
-  Python Learning
-</div>
+<center>Python Learning</center>
+
 
 <div>
   
