@@ -14,10 +14,10 @@
 n = int(input())
 a = [input() for _ in range(n)]
 #This reads n separate lines, each as a string.
-3
-1
-2
-3
+#3
+#1
+#2
+#3
 ```
 </div>
 
