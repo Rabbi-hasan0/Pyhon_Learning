@@ -1,10 +1,9 @@
 <h1 align="center">Python Learning</h1>
 
 
-
 <div>
-  
-# upper and lower bound
+
+### Upper and Lower bound
   
 ```py
 import bisect
