@@ -1,4 +1,5 @@
-<center>Python Learning</center>
+<h1 align="center">Python Learning</h1>
+
 
 
 <div>
